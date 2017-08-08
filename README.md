@@ -3,4 +3,4 @@ Materials for  the [EPSC 2017 OpenPlanetary Data Cafe Splinter Meeting](http://m
 
 ## Materials
 
-* [M. Aye's presentation on Conda](https://github.com/openplanetary/epsc2017-op-data-cafe/blob/master/conda_talk.pdf)
+* [M. Aye's presentation on Conda](https://github.com/openplanetary/epsc2017-op-data-cafe/blob/master/conda_talk.pdf) from [PDW #3](https://www.hou.usra.edu/meetings/planetdata2017/)
