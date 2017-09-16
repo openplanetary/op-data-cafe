@@ -4,4 +4,4 @@ Materials for  the [EPSC 2017 OpenPlanetary Data Cafe Splinter Meeting](http://m
 ## Materials
 
 * [M. Aye's presentation on Conda](https://github.com/openplanetary/epsc2017-op-data-cafe/blob/master/conda_talk.pdf) from [PDW #3](https://www.hou.usra.edu/meetings/planetdata2017/)
-* [How to Create a Web-Based Map with CARTO and OPM](https://github.com/openplanetary/opm/wiki/How-to-Create-Your-Own-Map) from N. Manaud
+* [How to Create a Web-Based Map with CARTO and OPM](https://github.com/openplanetary/opm/wiki/How-to-Create-Your-Own-Map) (N. Manaud)
