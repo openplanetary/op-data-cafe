@@ -8,6 +8,7 @@ Materials for  the [EPSC 2017 OpenPlanetary Data Cafe Splinter Meeting](http://m
   * [ASP](https://ti.arc.nasa.gov/tech/asr/intelligent-robotics/ngt/stereo/)
   * Open Source GIS (Grass, QGIS)
   * ...
+* Using ArXiv and preprint services for sharing (legally) paywalled articles, e.g. see [(old, to be possibly updated) summary](http://openplanetary.co/blog/science/publishing-tips.html)
 * [Making code citable](https://guides.github.com/activities/citable-code/)
 * [OpenPlanetaryMap](http://openplanetarymap.org/)
 * Using Jupyter notebook in your research (and teaching) workflow, e.g. [examples from pg-book](https://github.com/openplanetary/planetarygeology-book) (work in progress)
