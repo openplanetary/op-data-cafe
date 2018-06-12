@@ -1,34 +1,16 @@
-# Splinter : OpenPlanetary Data Analyasis Café
+OP Data Cafés are intended for planetary scientists and software developers to meet and share, discuss, and solve common issues around the topic of data handling and analysis. They are typically organised during splinter sessions at scientific conferences, following an unconference format.
 
-# epsc2017-op-data-cafe
+An unconference is a participant-driven meeting where the agenda is created by the attendees at the beginning of the event. Anyone who wants to initiate a discussion on a topic can claim a time and a space. Unconferences typically feature open discussions rather than having a single speaker at the front of the room given a talk, although any format is permitted.
 
-## Topics to be possibly touched
-* Version control - git & workflow for planetary science
-* (Open) Tools for planetary science, see also [#vespamap17 short summary](https://aprossi.github.io/vespamap17tools/):
-  * [ISIS3](https://isis.astrogeology.usgs.gov)
-  * [ASP](https://ti.arc.nasa.gov/tech/asr/intelligent-robotics/ngt/stereo/)
-  * Open Source GIS (Grass, QGIS)
-  * Open Source ML (Python/Scikit-{Image,Learn})
-  * ...
-* Using ArXiv and preprint services for sharing (legally) paywalled articles, e.g. see [(old, to be possibly updated) summary](http://openplanetary.co/blog/science/publishing-tips.html)
-* [Making code citable](https://guides.github.com/activities/citable-code/)
-* [OpenPlanetaryMap](http://openplanetarymap.org/)
-* Using Jupyter notebook in your research (and teaching) workflow, e.g. [examples from pg-book](https://github.com/openplanetary/planetarygeology-book) (work in progress)
-* [Using VESPA planetary virtual observatory](https://github.com/epn-vespa/vespamap17-hackathon) (see also dedicated [Session SMW1.3](http://meetingorganizer.copernicus.org/EPSC2017/session/26317))
+# Events
 
+[EPSC 2017](/events/epsc2017)
+[EPSC 2018](/events/epsc2018)
 
-* Python for beginners.
-* Advanges of specify an Open Source License for your code.
-* What are and why are useful DVCS/git/hub/mercurial. People could contribute to your code!
-* Getting DOI and distribute your code : expand your user base and get contributor.
+# Notebooks
 
-### Split in groups 
+# Tutorials
 
-Each person will gather people interested in one topic and expand discussion/slides/hands one.
+# Hacks
 
-
-## Materials
-Materials for  the [EPSC 2017 OpenPlanetary Data Cafe Splinter Meeting](http://meetingorganizer.copernicus.org/EPSC2017/session/26867) (to be reused/upgraded for  other similar events)
-
-* [M. Aye's presentation on Conda](https://github.com/openplanetary/epsc2017-op-data-cafe/blob/master/conda_talk.pdf) from [PDW #3](https://www.hou.usra.edu/meetings/planetdata2017/)
-* [How to Create a Web-Based Map of Mars using CARTO and OPM](https://github.com/openplanetary/opm/wiki/How-to-Create-Your-Own-Map) (N. Manaud)
+# Issues / Clinic
