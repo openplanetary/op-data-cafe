@@ -12,26 +12,25 @@ We organise OP Data Cafés during splinter sessions at scientific conferences, f
 
 ## How to participate?
 
-Prior to or during an OP Data Café, we can:
+Prior to or at the beginning an OP Data Café, you can either:
 
-* Introduce a tool/plugin/solution for solving a particular problem
-* Describe a problem you're having in your data analysis workflow (with the hope to find someone who can help you. If not, you can document it as GH Issue-> clinic)
-* Propose/conduct a tutorial (1h/2h)
-* Propose a co-creating/hacking activity (eg: op-resources, planetpy, opm, etc...)
+1. **Introduce a tool/plugin/solution** for solving a particular problem
+2. **Describe a problem** you're having in your data analysis workflow, with the hope to find some people who could help you. If not, you can document it as GH Issue-> clinic)
+3. **Propose/conduct a tutorial**
+4. **Propose a co-creating/hacking activity** (eg: op-resources, planetpy, opm, etc...)
 
-### Solution
+or simply come along with the intent to learn and/or share your expertise, helping other to solve their problems or collaborate on community-based projects.
 
-### Problem
-
-### Tutorial
-
-### Co-creation
-
-## Typical structure/agenda
+## Typical structure
 
 The structure/agenda of an OP Data Café can vary depending of the room space, number of attendees and proposed topics.
 
-1. **Welcome/intro** (from organisers: OP, this event)
+1. **Welcome & introduction**: organisers introduce OpenPlanetary and the 
 2. **Agenda creation**: participants propose topics (participants can propose topics prior to the workshop), and vote (if many participants)
 3. **Group activities**: participants split up into groups/tracks
 4. **Wrap up**: all participants reconvene and each group quickly reports on outcome/findings from discussions/tutorials/hacks
+
+## Contact us
+
+Should you have any questions, comments, feeback or ideas, you can chat with us on OP Slack [#op-data-cafe](https://openplanetary.slack.com/messages/C3X7807B5/team/U04CXH18V/) channel.
+
