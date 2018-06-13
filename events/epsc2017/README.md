@@ -31,6 +31,6 @@ Each person will gather people interested in one topic and expand discussion/sli
 
 (to be reused/upgraded for  other similar events)
 
-* [Getting (Digital) Work Material Online and Referable: a short story about licenses and DOIs](./2017_FRIGERI-citing_digital_data.pdf)
+* [Getting (Digital) Work Material Online and Referable: a short story about licenses and DOIs](./2017_FRIGERI-citing_digital_data.pdf) (Alessandro Frigeri)
 * [How to Create a Web-Based Map of Mars using CARTO and OPM](https://github.com/openplanetary/opm/wiki/How-to-Create-Your-Own-Map) (N. Manaud)
 * [M. Aye's presentation on Conda](./conda_talk.pdf) from [PDW #3](https://www.hou.usra.edu/meetings/planetdata2017/)
