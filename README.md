@@ -31,7 +31,7 @@ Prior to or during an OP Data Café, we can:
 
 The structure/agenda of an OP Data Café can vary depending of the room space, number of attendees and proposed topics.
 
-1. *Welcome/intro* (from organisers: OP, this event)
-2. *Agenda creation*: participants propose topics (participants can propose topics prior to the workshop), and vote (if many participants)
-3. *Group activities*: participants split up into groups/tracks
-4. *Wrap up*: all participants reconvene and each group quickly reports on outcome/findings from discussions/tutorials/hacks
+1. **Welcome/intro** (from organisers: OP, this event)
+2. **Agenda creation**: participants propose topics (participants can propose topics prior to the workshop), and vote (if many participants)
+3. **Group activities**: participants split up into groups/tracks
+4. **Wrap up**: all participants reconvene and each group quickly reports on outcome/findings from discussions/tutorials/hacks
