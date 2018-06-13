@@ -1,9 +1,9 @@
 # EPSC 2017's OP Data Café
 
-EPSC 2017, Riga, Latvia
+EPSC 2017 [SWM1.9 splinter session](http://meetingorganizer.copernicus.org/EPSC2017/session/26867)
 Thu, 21 Sep, 11:00–13:45
 
-[OP Blog post](https://medium.com/openplanetary/openplanetary-data-caf%C3%A9-at-epsc-2017-95d4cf90cdd8)
+[Summary Report (OP Blog post)](https://medium.com/openplanetary/openplanetary-data-caf%C3%A9-at-epsc-2017-95d4cf90cdd8)
 
 ## Topics to be possibly touched
 * Version control - git & workflow for planetary science
@@ -28,7 +28,9 @@ Thu, 21 Sep, 11:00–13:45
 Each person will gather people interested in one topic and expand discussion/slides/hands one.
 
 ## Materials
-Materials for  the [EPSC 2017 OpenPlanetary Data Cafe Splinter Meeting](http://meetingorganizer.copernicus.org/EPSC2017/session/26867) (to be reused/upgraded for  other similar events)
 
-* [M. Aye's presentation on Conda](./conda_talk.pdf) from [PDW #3](https://www.hou.usra.edu/meetings/planetdata2017/)
+(to be reused/upgraded for  other similar events)
+
+* [Getting (Digital) Work Material Online and Referable: a short story about licenses and DOIs](./2017_FRIGERI-citing_digital_data.pdf)
 * [How to Create a Web-Based Map of Mars using CARTO and OPM](https://github.com/openplanetary/opm/wiki/How-to-Create-Your-Own-Map) (N. Manaud)
+* [M. Aye's presentation on Conda](./conda_talk.pdf) from [PDW #3](https://www.hou.usra.edu/meetings/planetdata2017/)
