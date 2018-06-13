@@ -7,3 +7,7 @@ Sep 18th, Tuesday  12:45 – 15:30 (2h45)
 Sep 20th, Thursday 12:45 – 15:30 (2h45)
 
 The splinter is intended to be a participative workshop with hackathons and collaborative data handling and analysis components using state-of-the-art community-driven open source tools. Both junior and senior scientists willing to share expertise, tools, science use cases and issues are welcome.
+
+## Proposed topics / activities
+
+https://github.com/openplanetary/op-data-cafe/labels/EPSC2018
