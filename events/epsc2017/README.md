@@ -1,8 +1,6 @@
 # OP Data Café @ EPSC 2017
 
-[SWM1.9 splinter session](http://meetingorganizer.copernicus.org/EPSC2017/session/26867)
-
-Thu, 21 Sep, 11:00–13:45, Riga, Latvia
+[SWM1.9 splinter session](http://meetingorganizer.copernicus.org/EPSC2017/session/26867), Thu, 21 Sep, 11:00–13:45, Riga, Latvia
 
 [Summary Report (OP Blog post)](https://medium.com/openplanetary/openplanetary-data-caf%C3%A9-at-epsc-2017-95d4cf90cdd8)
 
