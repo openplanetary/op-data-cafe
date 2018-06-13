@@ -9,7 +9,7 @@ We organise OP Data Cafés during splinter sessions at scientific conferences, f
 ## Past and coming OP Data Cafés
 
 [EPSC 2017](/events/epsc2017)  
-[EPSC 2018](/events/epsc2018)
+[EPSC 2018](/events/epsc2018)  
 [AGU 2018](/events/agu2018)
 
 ## How to participate?
@@ -37,13 +37,3 @@ The structure/agenda of an OP Data Café can vary depending of the room space, n
 2. Agenda creation: participants propose topics (participants can propose topics prior to the workshop), and vote (if many participants)
 3. Tracks begin: participants split up into groups/tracks
 4. Wrap up: all participants reconvene and each group quickly reports on outcome/findings from discussions/tutorials/hacks
-
-|                    Welcome/intro                   |||
-|                   Agenda creation                  |||
-| ------------- |:-------------:| -----:|
-| Track 1      | Track 2 | Track 3
-|       |  |  |
-|       |       |    |
-|  |       |    |
-
-
