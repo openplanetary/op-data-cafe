@@ -34,7 +34,7 @@ or simply come along with the intent to learn and/or share your expertise, helpi
 
 [Submit a topic or activity](https://github.com/openplanetary/op-data-cafe/issues/new). (add the label corresponding to the conference/event you want to submit the topic/activity for, e.g.: `EPSC2018`, `AGU2018`)
 
-[Propose a new tutorial/activity](https://github.com/openplanetary/op-data-cafe/issues/new){:target="_blank"}
+[Propose a new tutorial/activity](https://github.com/openplanetary/op-data-cafe/issues/new)
 
 
 ## Get in touch
