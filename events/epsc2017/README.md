@@ -35,7 +35,9 @@ Each person will gather people interested in one topic and expand discussion/sli
 
 (to be reused/upgraded for  other similar events)
 
-* [OP Data Cafe introdcution](./op-data-cafe-intro.pdf)
+* [OP Data Cafe introduction](./op-data-cafe-intro.pdf)
 * [Getting (Digital) Work Material Online and Referable: a short story about licenses and DOIs](./2017_FRIGERI-citing_digital_data.pdf) (A. Frigeri)
 * [How to Create a Web-Based Map of Mars using CARTO and OPM](https://github.com/openplanetary/opm/wiki/How-to-Create-Your-Own-Map) (N. Manaud)
+* [Mars HRSC Machine Learning Notebook](https://github.com/openplanetary/op-data-cafe/blob/master/notebooks/mars_hrsc_machine_learning.ipynb)
+* [Mars HRSC Machine Learning Notebook](/notebooks/mars_hrsc_machine_learning.ipynb)
 * [M. Aye's presentation on Conda](./conda_talk.pdf) from [PDW #3](https://www.hou.usra.edu/meetings/planetdata2017/)
