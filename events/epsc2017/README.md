@@ -1,6 +1,11 @@
-# OP Data Café @ EPSC 2017
+# OP Data Café @ EPSC 2017 (Riga, Latvia)
 
-[SWM1.9 splinter session](http://meetingorganizer.copernicus.org/EPSC2017/session/26867), Thu, 21 Sep, 11:00–13:45, Riga, Latvia
+[SWM1.9 OpenPlanetary Data Analysis Cafe](http://meetingorganizer.copernicus.org/EPSC2017/session/26867) (public)
+Convener: A. P. Rossi
+
+Thu, 21 Sep, 11:00–13:45
+
+The splinter is intended to be a participative workshop with hackathons and collaborative data handling and analysis components using state-of-the-art community-driven open source tools. Both junior and senior scientists willing to share expertise, tools, science use cases and issues are welcome.
 
 [Summary Report (OP Blog post)](https://medium.com/openplanetary/openplanetary-data-caf%C3%A9-at-epsc-2017-95d4cf90cdd8)
 
@@ -30,6 +35,7 @@ Each person will gather people interested in one topic and expand discussion/sli
 
 (to be reused/upgraded for  other similar events)
 
+* [OP Data Cafe introdcution](./op-data-cafe-intro.pdf)
 * [Getting (Digital) Work Material Online and Referable: a short story about licenses and DOIs](./2017_FRIGERI-citing_digital_data.pdf) (A. Frigeri)
 * [How to Create a Web-Based Map of Mars using CARTO and OPM](https://github.com/openplanetary/opm/wiki/How-to-Create-Your-Own-Map) (N. Manaud)
 * [M. Aye's presentation on Conda](./conda_talk.pdf) from [PDW #3](https://www.hou.usra.edu/meetings/planetdata2017/)
