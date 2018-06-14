@@ -1,6 +1,6 @@
 # OP Data Café @ EPSC 2017 (Riga, Latvia)
 
-[SWM1.9 OpenPlanetary Data Analysis Cafe](http://meetingorganizer.copernicus.org/EPSC2017/session/26867) (public)
+[SWM1.9 OpenPlanetary Data Analysis Cafe](http://meetingorganizer.copernicus.org/EPSC2017/session/26867) (public)  
 Convener: A. P. Rossi
 
 Thu, 21 Sep, 11:00–13:45
