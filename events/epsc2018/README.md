@@ -10,4 +10,7 @@ The splinter is intended to be a participative workshop with hackathons and coll
 
 ## Proposed topics / activities
 
-https://github.com/openplanetary/op-data-cafe/labels/EPSC2018
+[List of proposed topics/activities for EPSC2018](https://github.com/openplanetary/op-data-cafe/labels/EPSC2018)
+
+[Submit a topic or activity](https://github.com/openplanetary/op-data-cafe/issues/new)  
+(Add `EPSC2018` label)
