@@ -17,9 +17,9 @@ At an OP Data Café, you can expect to learn new tools or techniques that can he
 The structure, content and duration of an OP Data Café can vary depending of the room space, number of attendees and proposed topics, but it typically follows the following agenda:
 
 1. **Welcome & introduction** (~15 min): organisers introduce OpenPlanetary and the OP Data Café of the day.
-2. **Agenda creation** (~15 min): participants propose topics (participants can propose topics prior to the workshop), and vote (if many participants)
+2. **Agenda creation** (~15 min): participants propose topics (participants can propose topics prior to the event), and vote (when too many participants w.r.t. room space)
 3. **Group activities** (~30 min - 2 hours): participants split up into groups around a table and start the chosen activity.
-4. **Wrap up** (~3 min / group): all participants reconvene and each group quickly reports on outcome/findings from discussions/tutorials/hacks
+4. **Wrap up** (~3 min / group): all participants reconvene and each group quickly reports on outcomes/findings from discussions/tutorials/hacks.
 
 ## How to contribute?
 
