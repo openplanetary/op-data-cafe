@@ -23,16 +23,16 @@ The structure, content and duration of an OP Data Café can vary depending of th
 
 ## How to contribute?
 
-Prior to or at the beginning an OP Data Café, you can either:
+Prior to or at the beginning an OP Data Café, you can either submit a:
 
-1. **Introduce a tool/plugin/solution** for solving a particular problem. Your presentation should be short and encourage open discussions at your table.
-2. **Describe a problem** you're having in your data analysis workflow, with the hope to find some people who could help you. If not, you can document it as GH Issue-> clinic)
-3. **Propose a tutorial**
-4. **Propose a co-creating/hacking activity** (eg: op-resources, planetpy, opm, tutorials, etc...)
+1. **tool/technique** for solving a particular problem. Your presentation should be short and encourage open discussions at your table.
+2. **problem** you're having in your data analysis workflow, with the hope to find some people who could help you. If not, you can document it as GH Issue-> clinic)
+3. **tutorial**
+4. **co-creating/hacking activity** (eg: op-resources, planetpy, opm, tutorials, etc...)
 
 or simply come along with the intent to learn and/or share your expertise, helping other to solve their problems or collaborate on community-based projects.
 
-[Suggest a topic or activity](https://github.com/openplanetary/op-data-cafe/issues/new).
+[Submit a topic or activity](https://github.com/openplanetary/op-data-cafe/issues/new). (add the label corresponding to the conference/event you want to submit the topic/activity for, e.g.: EPSC2018, AGU2018)
 
 ## Get in touch
 
