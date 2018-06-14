@@ -36,5 +36,5 @@ or simply come along with the intent to learn and/or share your expertise, helpi
 
 ## Get in touch
 
-Should you have any questions, comments, feeback or ideas, you can chat with us on OP Slack [#op-data-cafe](https://openplanetary.slack.com/messages/C3X7807B5/team/U04CXH18V/) channel.
+Should you have any questions, comments, feeback or ideas, you can chat with us in OP Slack [#op-data-cafe](https://openplanetary.slack.com/messages/C3X7807B5/team/U04CXH18V/) channel.
 
