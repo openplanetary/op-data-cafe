@@ -32,7 +32,7 @@ Prior to or at the beginning an OP Data Café, you can either submit a:
 
 or simply come along with the intent to learn and/or share your expertise, helping other to solve their problems or collaborate on community-based projects.
 
-[Submit a topic or activity](https://github.com/openplanetary/op-data-cafe/issues/new). (add the label corresponding to the conference/event you want to submit the topic/activity for, e.g.: EPSC2018, AGU2018)
+[Submit a topic or activity](https://github.com/openplanetary/op-data-cafe/issues/new). (add the label corresponding to the conference/event you want to submit the topic/activity for, e.g.: `EPSC2018`, `AGU2018`)
 
 ## Get in touch
 
