@@ -4,11 +4,13 @@
 
 We organise OP Data Cafés during splinter sessions at scientific conferences, following an unconference format. An unconference is a participant-driven meeting where the agenda is created by the attendees at the beginning of the event. Anyone who wants to initiate a discussion on a topic can claim a time and a space. Unconferences typically feature open discussions rather than having a single speaker at the front of the room given a talk, although any format is permitted.
 
-## Past and coming events
+## Past events
 
-* [OP Data Café @ EPSC 2017](/events/epsc2017)  
-* [OP Data Café @ EPSC 2018](/events/epsc2018)  
-* [OP Data Café @ AGU 2018](/events/agu2018)
+* [OP Data Café @ EPSC 2017](/events/epsc2017)
+
+## Coming events
+
+* [OP Data Café @ EPSC 2018](/events/epsc2018)
 
 ## What to expect?
 
