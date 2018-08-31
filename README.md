@@ -33,7 +33,7 @@ Prior to or at the beginning an OP Data Café, you can either propose a:
 3. **hands-on `tutorial`** at beginner, intermediate and expert level. Any form is accepted and made accessible from this repository.
 4. **`hack`/co-creating activity**
 
-[Propose an activity or ask help](https://github.com/openplanetary/op-data-cafe/issues/new) by openning a Github issue. (add the label corresponding to the conference/event you want to submit the topic/activity for, e.g.: `EPSC2018`, `AGU2018`)
+[Propose an activity or ask help](https://github.com/openplanetary/op-data-cafe/issues/new) by creating a Github issue. (add the label corresponding to the conference/event you want to submit the topic/activity for, e.g.: `EPSC2018`, `AGU2018`)
 
 You can also get in touch also via [twitter](https://twitter.com/openplanetary?) or send suggestions and request to the coordinator: for the upcoming conference in September `EPSC2018` it is [Mario D'Amore](mailto:kidpixo@gmail.com).
 
