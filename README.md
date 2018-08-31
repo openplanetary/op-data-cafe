@@ -8,7 +8,7 @@ We organise OP Data Cafés during splinter sessions at scientific conferences, f
 
 * [OP Data Café @ EPSC 2017 (Riga, Latvia)](/events/epsc2017)
 
-## Coming events
+## Upcoming events
 
 * [OP Data Café @ EPSC 2018 (Berlin, Germany)](/events/epsc2018)
 
@@ -30,7 +30,7 @@ Prior to or at the beginning an OP Data Café, you can use this repository's Git
 
 1. [propose a tool/technique **demo**](https://github.com/openplanetary/op-data-cafe/issues/new) (use `demo` label) solving a given problem. Your presentation should be short and encourage open discussions at your table.
 2. [propose a hands-on **tutorial**](https://github.com/openplanetary/op-data-cafe/issues/new) (use `tutorial` label) at beginner, intermediate and expert level. Any form is accepted as long as material/instructions are made accessible / documented from this repository.
-3. [propose a **hack**/co-creating session](https://github.com/openplanetary/op-data-cafe/issues/new) (use `hack` tag) aiming to build something useful for the community, or to solve a particular problem.
+3. [propose a **hack**/co-creating session](https://github.com/openplanetary/op-data-cafe/issues/new) (use `hack` label) aiming to build something useful for the community, or to solve a particular problem.
 4. [ask for **help**](https://github.com/openplanetary/op-data-cafe/issues/new) (use `problem` label) you're having in your data analysis workflow, with the hope to find some people who can help you. If not, you can document it as GitHub Issue during the event)
 
 Add the label corresponding to the conference/event you want to submit the topic/activity for, e.g.: `EPSC2018`, `AGU2018`)
