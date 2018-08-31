@@ -26,7 +26,7 @@ The structure, content and duration of an OP Data Café can vary depending of th
 ## How to participe?
 
 You will be there to either *learn* or *share* something to some people, or to team up with a group to hack/co-create something.
-Prior to or at the beginning an OP Data Café, you can either propose a:
+Prior to or at the beginning an OP Data Café, you can use this repository's Github Issues to:
 
 1. [propose a tool/technique **demo**](https://github.com/openplanetary/op-data-cafe/issues/new) (use `demo` label) solving a given problem. Your presentation should be short and encourage open discussions at your table.
 2. [propose a hands-on **tutorial**](https://github.com/openplanetary/op-data-cafe/issues/new) (use `tutorial` label) at beginner, intermediate and expert level. Any form is accepted as long as material/instructions are made accessible / documented from this repository.
@@ -35,8 +35,9 @@ Prior to or at the beginning an OP Data Café, you can either propose a:
 
 Add the label corresponding to the conference/event you want to submit the topic/activity for, e.g.: `EPSC2018`, `AGU2018`)
 
-You can also get in touch also via [twitter](https://twitter.com/openplanetary?) or send suggestions and request to the coordinator: for the upcoming conference in September `EPSC2018` it is [Mario D'Amore](mailto:kidpixo@gmail.com).
+### Note for EPSC 2018
 
+You can also get in touch also via [twitter](https://twitter.com/openplanetary?) or send suggestions and request to the coordinator: for the upcoming conference in September `EPSC2018` it is [Mario D'Amore](mailto:kidpixo@gmail.com).
 
 ## Get in touch
 
