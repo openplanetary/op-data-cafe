@@ -32,7 +32,7 @@ Prior to or at the beginning an OP Data Café, you can use this repository's Git
 2. [propose a hands-on **tutorial**](https://github.com/openplanetary/op-data-cafe/issues/new) (use `tutorial` label) at beginner, intermediate and expert level. Any form is accepted as long as material/instructions are made accessible / documented from this repository.
 3. [propose a **hack**/co-creating session](https://github.com/openplanetary/op-data-cafe/issues/new) (use `hack` label) aiming to build something useful for the community, or to solve a particular problem.
 
-or
+and/or
 
 4. [ask for **help**](https://github.com/openplanetary/op-data-cafe/issues/new) (use `help wanted` label) if you have a problem in your data processing/analysis workflow, with the hope to find some people who can help you.
 
