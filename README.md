@@ -16,7 +16,7 @@ We organise OP Data Cafés during splinter sessions at scientific conferences, f
 
 At an OP Data Café, you can expect to learn new tools or techniques that can help you in your workflow, to find help for a problem you have, and to participate in co-creating activities related to community-driven projects.
 
-The structure, content and duration of an OP Data Café can vary depending of the room space, number of attendees and proposed topics, but it typically follows the following agenda:
+The structure, content and duration of an OP Data Café can vary depending of the room space, number of attendees and proposed topics, but it typically follows the following structure principles:
 
 1. **Welcome & introduction** (~15 min): organisers introduce OpenPlanetary and the OP Data Café of the day.
 2. **Agenda creation** (~15 min): participants propose topics (participants can propose topics prior to the event), and vote (when too many participants w.r.t. room space)
