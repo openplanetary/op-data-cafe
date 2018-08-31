@@ -25,8 +25,8 @@ The structure, content and duration of an OP Data Café can vary depending of th
 
 ## How to participe?
 
-You will be there to either *learn* or *share* something to some people, or to team up with some of them to hack/co-create something.
-Prior to, or at the beginning an OP Data Café, we use this repository's Github Issues to:
+So, uou will be there to either *learn* or *share* something to some people, or to team up with some of them to hack/co-create something.
+Before an OP Data Café, or right at the beginning of it, we use this repository's Github Issues to:
 
 1. [propose a **demo**](https://github.com/openplanetary/op-data-cafe/issues/new) (use `demo` label) of a tool/technique/workflow help to solving a problem or complete a task. Your presentation should be short and encourage open discussions at your table.
 2. [propose a hands-on **tutorial**](https://github.com/openplanetary/op-data-cafe/issues/new) (use `tutorial` label) at beginner, intermediate and expert level. Any form is accepted as long as related materials and instructions are made accessible from this repository.
