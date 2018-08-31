@@ -35,9 +35,7 @@ Prior to or at the beginning an OP Data Café, you can use this repository's Git
 
 Add the label corresponding to the conference/event you want to submit the topic/activity for, e.g.: `EPSC2018`, `AGU2018`)
 
-### Note for EPSC 2018
-
-You can also get in touch also via [twitter](https://twitter.com/openplanetary?) or send suggestions and request to the coordinator: for the upcoming conference in September `EPSC2018` it is [Mario D'Amore](mailto:kidpixo@gmail.com).
+**You can also get in touch also via [twitter](https://twitter.com/openplanetary?) or send suggestions and request to the coordinator: for the upcoming conference in September `EPSC2018` it is [Mario D'Amore](mailto:kidpixo@gmail.com).**
 
 ## Get in touch
 
