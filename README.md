@@ -38,9 +38,7 @@ and/or
 
 #### Guidelines
 
-Please label correspondingly (`demo`, `tutorial`, `hack`, or `help wanted`), including the conference/event you want to provide inputs for (e.g.: `EPSC2018`, `AGU2018`).
-
-Check available [labels](https://github.com/openplanetary/op-data-cafe/labels).
+Please label correspondingly (`demo`, `tutorial`, `hack`, or `help wanted`), including the conference/event you want to provide inputs for (e.g.: `EPSC2018`, `AGU2018`). Check available labels [here](https://github.com/openplanetary/op-data-cafe/labels).
 
 **You can also get in touch also via [twitter](https://twitter.com/openplanetary?) or send suggestions and request to the coordinator: for the upcoming conference in September `EPSC2018` it is [Mario D'Amore](mailto:kidpixo@gmail.com).**
 
