@@ -36,7 +36,7 @@ and/or
 
 4. [ask for **help**](https://github.com/openplanetary/op-data-cafe/issues/new) (use `help wanted` label) if you have a problem in your data processing/analysis workflow, with the hope to find some people who can help you. You can also decide to join a demo or tutorial activity, which can be followed by a short "clinic/Q&A" session.
 
-Add the label corresponding to the conference/event you want to submit the topic/activity for, e.g.: `EPSC2018`, `AGU2018`)
+Please label correspondingly (`demo`, `tutorial`, `hack`, or `help wanted`), including the conference/event you want to provide inputs for (e.g.: `EPSC2018`, `AGU2018`)
 
 **You can also get in touch also via [twitter](https://twitter.com/openplanetary?) or send suggestions and request to the coordinator: for the upcoming conference in September `EPSC2018` it is [Mario D'Amore](mailto:kidpixo@gmail.com).**
 
