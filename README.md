@@ -34,7 +34,7 @@ Prior to, or at the beginning an OP Data Café, we use this repository's Github 
 
 and/or
 
-4. [ask for **help**](https://github.com/openplanetary/op-data-cafe/issues/new) (use `help wanted` label) if you have a problem in your data processing/analysis workflow, with the hope to find some people who can help you.
+4. [ask for **help**](https://github.com/openplanetary/op-data-cafe/issues/new) (use `help wanted` label) if you have a problem in your data processing/analysis workflow, with the hope to find some people who can help you. You can also decide to join a demo or tutorial activity, which can be followed by a short "clinic/Q&A" session.
 
 Add the label corresponding to the conference/event you want to submit the topic/activity for, e.g.: `EPSC2018`, `AGU2018`)
 
