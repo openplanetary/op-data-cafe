@@ -23,7 +23,7 @@ Read [guidelines](https://github.com/openplanetary/op-data-cafe#guidelines).
 
 ### Sep 18th, Tuesday  12:45 – 15:45
 
-**Coordinator**: Mario D'amore\s\s
+**Coordinator**: Mario D'amore  
 **Facilitators**: Alessendro Frigeri, Angelo Pio Rossi, Nicolas Manaud.
 
 Time | Time block | Description
@@ -35,7 +35,7 @@ Time | Time block | Description
 
 ### Sep 20th, Thursday 12:45 – 15:45
 
-**Coordinator**: Mario D'amore\s\s
+**Coordinator**: Mario D'amore  
 **Facilitators**: Alessendro Frigeri, Angelo Pio Rossi, Nicolas Manaud.
 
 Time | Time block | Description
