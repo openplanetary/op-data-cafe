@@ -10,8 +10,6 @@ The splinter is intended to be a participative workshop with hackathons and coll
 
 ## Proposed topics / activities
 
-Read [guidelines](https://github.com/openplanetary/op-data-cafe#guidelines)
-
 [List of proposed topics/activities for EPSC2018](https://github.com/openplanetary/op-data-cafe/labels/EPSC2018)
 
 [Submit a topic or activity](https://github.com/openplanetary/op-data-cafe/issues/new)  
@@ -19,11 +17,13 @@ Read [guidelines](https://github.com/openplanetary/op-data-cafe#guidelines)
 
 You can also get in touch also via [twitter](https://twitter.com/openplanetary?) or send suggestions and request to the coordinator: for the upcoming conference in September `EPSC2018` it is [Mario D'Amore](mailto:kidpixo@gmail.com).
 
+Read [guidelines](https://github.com/openplanetary/op-data-cafe#guidelines).
+
 ## Agenda
 
 ### Sep 18th, Tuesday  12:45 – 15:45
 
-**Coordinator**: Mario D'amore
+**Coordinator**: Mario D'amore\s\s
 **Facilitators**: Alessendro Frigeri, Angelo Pio Rossi, Nicolas Manaud.
 
 Time | Time block | Description
@@ -35,7 +35,7 @@ Time | Time block | Description
 
 ### Sep 20th, Thursday 12:45 – 15:45
 
-**Coordinator**: Mario D'amore
+**Coordinator**: Mario D'amore\s\s
 **Facilitators**: Alessendro Frigeri, Angelo Pio Rossi, Nicolas Manaud.
 
 Time | Time block | Description
