@@ -10,7 +10,7 @@ The splinter is intended to be a participative workshop with hackathons and coll
 
 ## What is an OP Data Café?
 
-*The OpenPlanetary (OP) Data Café is a place for planetary scientists and software developers to meet and share, discuss, and solve common issues around the topic of data handling and analysis.*
+The OpenPlanetary (OP) Data Café is a place for planetary scientists and software developers to meet and share, discuss, and solve common issues around the topic of data handling and analysis.
 
 Read more on what to expect and how to participate [here](https://github.com/openplanetary/op-data-cafe).
 
