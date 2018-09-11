@@ -17,7 +17,31 @@ Read [guidelines](https://github.com/openplanetary/op-data-cafe#guidelines)
 [Submit a topic or activity](https://github.com/openplanetary/op-data-cafe/issues/new)  
 (Add `EPSC2018` label)
 
-**You can also get in touch also via [twitter](https://twitter.com/openplanetary?) or send suggestions and request to the coordinator: for the upcoming conference in September `EPSC2018` it is [Mario D'Amore](mailto:kidpixo@gmail.com).**
+You can also get in touch also via [twitter](https://twitter.com/openplanetary?) or send suggestions and request to the coordinator: for the upcoming conference in September `EPSC2018` it is [Mario D'Amore](mailto:kidpixo@gmail.com).
 
 ## Agenda
+
+### Sep 18th, Tuesday  12:45 – 15:45
+
+**Coordinator**: Mario D'amore
+**Facilitators**: Alessendro Frigeri, Angelo Pio Rossi, Nicolas Manaud.
+
+Time | Time block | Description
+------------ | ------------- | -------------
+12:45 - 13:00 | Welcome & introduction | The organisers introduce OpenPlanetary and the OP Data Café of the day.
+13:00 - 13:20 | Agenda creation | Participants in the room can propose topics/activities in addition to the ones already proposed), and vote (if too many participants w.r.t. room space)
+13:20 - 15:30 | Group activities | Participants split up into groups around a table and start the chosen activity.
+15:20 – 15:45  | Wrap up | All participants reconvene and each group quickly reports on the outcomes/findings from discussions/tutorials/hacks.
+
+### Sep 20th, Thursday 12:45 – 15:45
+
+**Coordinator**: Mario D'amore
+**Facilitators**: Alessendro Frigeri, Angelo Pio Rossi, Nicolas Manaud.
+
+Time | Time block | Description
+------------ | ------------- | -------------
+12:45 - 13:00 | Welcome & introduction | The organisers introduce OpenPlanetary and the OP Data Café of the day.
+13:00 - 13:20 | Agenda creation | Participants in the room can propose topics/activities in addition to the ones already proposed), and vote (if too many participants w.r.t. room space). Topics/activities can be the continuation of the previous day.
+13:20 - 15:30 | Group activities | Participants split up into groups around a table and start the chosen activity.
+15:20 – 15:45  | Wrap up | All participants reconvene and each group quickly reports on the outcomes/findings from discussions/tutorials/hacks.
 
