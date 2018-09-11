@@ -8,6 +8,12 @@ Sep 20th, Thursday 12:45 – 15:45 (3h)
 
 The splinter is intended to be a participative workshop with hackathons and collaborative data handling and analysis components using state-of-the-art community-driven open source tools. Both junior and senior scientists willing to share expertise, tools, science use cases and issues are welcome.
 
+## What is an OP Data Café?
+
+*The OpenPlanetary (OP) Data Café is a place for planetary scientists and software developers to meet and share, discuss, and solve common issues around the topic of data handling and analysis.*
+
+Read more on what to expect and how to participate [here](https://github.com/openplanetary/op-data-cafe).
+
 ## Proposed topics / activities
 
 [List of proposed topics/activities for EPSC2018](https://github.com/openplanetary/op-data-cafe/labels/EPSC2018)
