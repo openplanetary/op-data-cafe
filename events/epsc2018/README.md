@@ -27,7 +27,7 @@ Read [guidelines](https://github.com/openplanetary/op-data-cafe#guidelines).
 
 ## Agenda
 
-### Sep 18th, Tuesday  12:45 – 15:45
+### Sep 18th, Tuesday  12:45 – 15:45 - Room Mercury
 
 **Coordinator**: Mario D'amore  
 **Facilitators**: Alessendro Frigeri, Angelo Pio Rossi, Nicolas Manaud.
@@ -39,7 +39,7 @@ Time | Time block | Description
 13:20 - 15:30 | Group activities | Participants split up into groups around a table and start the chosen activity.
 15:20 – 15:45  | Wrap up | All participants reconvene and each group quickly reports on the outcomes/findings from discussions/tutorials/hacks.
 
-### Sep 20th, Thursday 12:45 – 15:45
+### Sep 20th, Thursday 12:45 – 15:45 - Room Mercury
 
 **Coordinator**: Mario D'amore  
 **Facilitators**: Alessendro Frigeri, Angelo Pio Rossi, Nicolas Manaud.
