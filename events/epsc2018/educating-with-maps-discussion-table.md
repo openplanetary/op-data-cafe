@@ -1,45 +1,41 @@
-Group discussions (Tuesday) - Educating with maps
+## Educating with maps
 
-Participants:
+Group discussion (Tuesday 18th)
+
+### Participants:
 -
 -
 
-Problem:
-Educational methotology (tecahing the teacher to make it usable for the students)
-10-12 years
-What information do you need to provide to teacher/student?
-Narrative for getting through a map
-- onboarding students
+### Notes
 
-Example:
-- https://scrimba.com
-- storiesoftomorrow
-- colonising Mars
-
-
-Sharing a map space
-collobatively 
-Support for presentation
-
-
-What are the main teaching/learning objectives?
+Problems / what are the main teaching/learning objectives?
 - creator more than consumer
 - learn, pause, break/build/create, continue
 - exploring/ understanding worlds
 - how is something related to something else?
 - skills
-
-Individual assessment of students through semantic analytics
+- how long/how often?
+- onboarding students
+- what information do you need to provide to teacher/student?
+- how do you make it collaborative?
+- educational methotology (teaching the teacher to make it usable for the students)
 
 Users/audience:
 - teacher (scared of technology)
-- students
+- students (10-12 years)
 
+Possible solutions: to 
+- propose a few existing presentation/course
+- allow teacher to build their own course
+- allow students learn, pause, break/build/create/explore, continue (interactive learning, eg: https://scrimba.com)
+- sharing a map space
+- using keywords and semantic analytics for individual assessment
+- narrative for getting through a map
 
-Possible solutions:
-- Presentation/course using keywords
-
-
+Example:
+- https://scrimba.com
+- storiesoftomorrow
+- colonising Mars
 
 
 
