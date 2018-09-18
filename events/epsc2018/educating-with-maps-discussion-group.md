@@ -10,7 +10,6 @@ Group discussion (Tuesday 18th)
 
 Problems / what are the main teaching/learning objectives?
 - creator more than consumer
-- learn, pause, break/build/create, continue
 - exploring/ understanding worlds
 - how is something related to something else?
 - skills
@@ -24,7 +23,7 @@ Users/audience:
 - teacher (scared of technology)
 - students (10-12 years)
 
-Possible solutions: to 
+Possible solutions:
 - propose a few existing presentation/course
 - allow teacher to build their own course
 - allow students learn, pause, break/build/create/explore, continue (interactive learning, eg: https://scrimba.com)
@@ -34,8 +33,7 @@ Possible solutions: to
 
 Example:
 - https://scrimba.com
-- storiesoftomorrow
-- colonising Mars
+- http://www.storiesoftomorrow.eu
 
 
 
