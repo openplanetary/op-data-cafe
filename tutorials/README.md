@@ -24,7 +24,7 @@ docker ps -> see current processes
 
 Process:
 
-  1. - you install docker
+  1. - you install docker 
   2. - you search the docker images
   3. - there are official images - like ubuntu.  Using the official ones is safer for a newbie.
   4. - Search by tags facilitates
