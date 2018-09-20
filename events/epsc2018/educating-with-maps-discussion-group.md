@@ -2,13 +2,6 @@
 
 Group discussion (Tuesday 18th)
 
-### Participants:
-- Arianna Piccialli arianna.piccialli@aeronomie.be
-- Steph Tyszka steph@bootsa.net
-- Jose Saraiva jose.saraiva@nuclio.pt
-- Alexander Lomakin olymps42@mail.ru
-- Nicolas Manaud nmanaud@gmail.com
-
 ### Notes
 
 Problems / what are the main teaching/learning objectives?
