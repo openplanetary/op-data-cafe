@@ -41,9 +41,11 @@ This run docker images degian tag 9, keep STDIN open, allocate a pseudo-TTY  and
 5. we did a docker pull debian
 6. what images do I have locally?: docker images
 7. docker run -i debian
-8. you can run GUI application like : `docker run -e DISPLAY=$ip:0 -v /tmp/.X11-unix:/tmp/.X11-unix debian:9-xeyes /usr/bin/xeyes` (you need xeys installed in the image, see below)
+8. you can run GUI application like (you need xeys installed in the image, see below and use the appropriate command for mac/win host): 
+    - `docker run -e DISPLAY=docker.for.mac.localhost:0 -v /tmp/.X11-unix:/tmp/.X11-unix debian:9-xeyes /usr/bin/xeyes` 
+    - `docker run -e DISPLAY=docker.for.win.localhost:0 -v /tmp/.X11-unix:/tmp/.X11-unix debian:9-xeyes /usr/bin/xeyes` 
 9. aliasing bash command to docker: `alias dockerls="docker run -ti --rm -v $(pwd):/data debian /bin/ls"` this run a container on the fly, pass the local directory to /data in the container, and pass also option to the option the internal command.
- 
+
 
 If we want to build our image.  We have to prepare a configuration file called Dockerfile. 
 
