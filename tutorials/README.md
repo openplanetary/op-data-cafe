@@ -1,38 +1,24 @@
-### Using Git for processing pipelines of planetary data
+Tutorials discussions and presentations are under the relevants [event](https://github.com/openplanetary/op-data-cafe/tree/master/events), here some links.
 
-Github repo: https://github.com/afrigeri/mdis_data_pipeline
-Abstract: [Using Git in Planetary Research](https://meetingorganizer.copernicus.org/EPSC2018/EPSC2018-1058-2.pdf)
+Notebooks you can run are collected under [notebooks](https://github.com/openplanetary/op-data-cafe/tree/master/notebooks)
 
+### OP Data Café @ EPSC 2017 (Riga, Latvia, September 2017)
 
-# Docker with Mario at OpenPlanetaryDataCafe - EPSC2018
+General page for [EPS2017](https://github.com/openplanetary/op-data-cafe/blob/master/events/epsc2017/)
 
-what is Docker?
+- [OP Data Café Introduction](https://github.com/openplanetary/op-data-cafe/blob/master/events/epsc2017/op-data-cafe-intro.pdf)
+- [Citing digital data](https://github.com/openplanetary/op-data-cafe/blob/master/events/epsc2017/2017_FRIGERI-citing_digital_data.pdf)
+- [Ana/Mini/Conda](https://github.com/openplanetary/op-data-cafe/blob/master/events/epsc2017/conda_talk.pdf)
+- [Machine learning intro with python and Mars HRSC data](https://github.com/openplanetary/op-data-cafe/blob/master/notebooks/mars_hrsc_machine_learning.ipynb)
 
-Different from VirtualBox - it's more app-oriented.
+### OP Data Café @ EPSC 2018 (Berlin, Germany, September 2018)
 
-Example: docker with python + jupyter
+General page for [EPS2018](https://github.com/openplanetary/op-data-cafe/tree/master/events/epsc2018)
 
-Docker works differently in GNU/Linux vs Win|Max
+- [Docker with Mario](https://github.com/openplanetary/op-data-cafe/blob/master/events/epsc2018/docker-introduction.md)
+- [Educating with maps](https://github.com/openplanetary/op-data-cafe/blob/master/events/epsc2018/educating-with-maps-discussion-group.md)
+- [Using Git for processing pipelines of planetary data](https://github.com/openplanetary/op-data-cafe/blob/master/events/epsc2018/git_for_processing_pipelines.md)
 
-User interface: docker [option]
+### OpenPlanetaryDataCafe at AGU2018
 
-you start a virtual machine with a root account
-
-Basic commants:
-docker ps -> see current processes
-
-
-Process:
-
-  1. - you install docker 
-  2. - you search the docker images
-  3. - there are official images - like ubuntu.  Using the official ones is safer for a newbie.
-  4. - Search by tags facilitates
-  5. - we docker pull debian
-  6. - what images do I have locally?: docker.exe images
-  7. - docker.exe run -i debian
-
-If we want to build our image.  We have to prepare a configuration file.
-
-Experiment:
-Docker debian on MS Windows 10 machine
+General page for [AGU2018](https://github.com/openplanetary/op-data-cafe/tree/master/events/agu2018)
