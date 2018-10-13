@@ -7,10 +7,11 @@ We organise OP Data Cafés during splinter sessions at scientific conferences, f
 ## Past events
 
 * [OP Data Café @ EPSC 2017 (Riga, Latvia)](/events/epsc2017)
+* [OP Data Café @ EPSC 2018 (Berlin, Germany)](/events/epsc2018)
 
 ## Upcoming events
 
-* [OP Data Café @ EPSC 2018 (Berlin, Germany)](/events/epsc2018)
+* [OP Data Café @ LPSC 2010 (Houston, USA)](/events/lpsc2019) ?
 
 ## What to expect?
 
