@@ -11,7 +11,7 @@ We organise OP Data Cafés during splinter sessions at scientific conferences, f
 
 ## Upcoming events
 
-* [OP Data Café @ LPSC 2010 (Houston, USA)](/events/lpsc2019) ?
+* [OP Data Café @ LPSC 2019 (Houston, USA)](/events/lpsc2019) ?
 
 ## What to expect?
 
