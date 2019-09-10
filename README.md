@@ -1,5 +1,5 @@
 Repository of files shared during [OpenPlanetary Data Cafés](https://www.openplanetary.org/events) at planetary science conferences.
 
-* [OP Data Café @ LPSC 2019 (Houston, USA)](./epsc-dps2019)
+* [OP Data Café @ EPSC-DPS 2019 (Geneva, Switzerland)](./epsc-dps2019)
 * [OP Data Café @ EPSC 2017 (Riga, Latvia)](./epsc2017)
 * [OP Data Café @ EPSC 2018 (Berlin, Germany)](./epsc2018)
