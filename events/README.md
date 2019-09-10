@@ -1,3 +1,0 @@
-## Organiser guidelines
-
-TBW

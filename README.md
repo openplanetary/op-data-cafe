@@ -1,50 +1,5 @@
-# OP Data Café
+Repository of files shared during [OpenPlanetary Data Cafés](https://www.openplanetary.org/events) at planetary science conferences.
 
-**An OpenPlanetary (OP) Data Café is a place for planetary scientists and software developers to meet and share, discuss, and solve common issues around the topic of data handling and analysis.**
-
-We organise OP Data Cafés during splinter sessions at scientific conferences, following an unconference format. An unconference is a participant-driven meeting where the agenda is created by the attendees at the beginning of the event. Anyone who wants to initiate a discussion on a topic can claim a time and a space. Unconferences typically feature open discussions rather than having a single speaker at the front of the room given a talk, although any format is permitted.
-
-## Past events
-
-* [OP Data Café @ EPSC 2017 (Riga, Latvia)](/events/epsc2017)
-* [OP Data Café @ EPSC 2018 (Berlin, Germany)](/events/epsc2018)
-
-## Upcoming events
-
-* [OP Data Café @ LPSC 2019 (Houston, USA)](/events/lpsc2019) ?
-
-## What to expect?
-
-At an OP Data Café, you can expect to learn new tools or techniques that can help you in your workflow, to find help for a problem you have, and to participate in co-creating activities related to community-driven projects.
-
-The structure, content and duration of an OP Data Café can vary depending of the room space, number of attendees and proposed topics, but it typically follows the following structure principles:
-
-1. **Welcome & introduction** (~15 min): organisers introduce OpenPlanetary and the OP Data Café of the day.
-2. **Agenda creation** (~15 min): participants propose topics (participants can propose topics prior to the event), and vote (when too many participants w.r.t. room space)
-3. **Group activities** (~30 min - 2 hours): participants split up into groups around a table and start the chosen activity.
-4. **Wrap up** (~3 min / group): all participants reconvene and each group quickly reports on outcomes/findings from discussions/tutorials/hacks.
-
-## How to participe?
-
-So, uou will be there to either *learn* or *share* something to some people, or to team up with some of them to hack/co-create something.
-Before an OP Data Café, or right at the beginning of it, we use this repository's Github Issues to:
-
-1. [propose a **demo**](https://github.com/openplanetary/op-data-cafe/issues/new) (use `demo` label) of a tool/technique/workflow help to solving a problem or complete a task. Your presentation should be short and encourage open discussions at your table.
-2. [propose a hands-on **tutorial**](https://github.com/openplanetary/op-data-cafe/issues/new) (use `tutorial` label) at beginner, intermediate and expert level. Any form is accepted as long as related materials and instructions are made accessible from this repository.
-3. [propose a **hack**/co-creating session](https://github.com/openplanetary/op-data-cafe/issues/new) (use `hack` label) aiming to build something useful for the community, or to solve a particular problem.
-
-and/or
-
-4. [ask for **help**](https://github.com/openplanetary/op-data-cafe/issues/new) (use `help wanted` label) if you have a problem in your data processing/analysis workflow, with the hope to find some people who can help you. You can also decide to join a demo or tutorial activity, which can be followed by a short "clinic/Q&A" session.
-
-#### Guidelines
-
-Please *Label* correspondingly (`demo`, `tutorial`, `hack`, or `help wanted`), including the conference/event you want to provide inputs for (e.g.: `EPSC2018`, `AGU2018`). Check available labels [here](https://github.com/openplanetary/op-data-cafe/labels).
-
-Assign the person leading an activity at a particular event: the one making a demo, running a tutorial, or moderating a hack (note: not necessarily the same person who created the *Issue*).  
-
-**You can also get in touch also via [twitter](https://twitter.com/openplanetary?) or send suggestions and request to the coordinator: for the upcoming conference in September `EPSC2018` it is [Mario D'Amore](mailto:kidpixo@gmail.com).**
-
-## Get in touch
-
-Should you have any questions, comments, feeback or ideas, you can chat with us in OP Slack [#op-data-cafe](https://openplanetary.slack.com/messages/C3X7807B5/team/U04CXH18V/) channel.
+* [OP Data Café @ LPSC 2019 (Houston, USA)](./epsc-dps2019)
+* [OP Data Café @ EPSC 2017 (Riga, Latvia)](./epsc2017)
+* [OP Data Café @ EPSC 2018 (Berlin, Germany)](./epsc2018)
